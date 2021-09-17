@@ -20,13 +20,13 @@ Depending on the mission, players may choose to alternate deployment as well. Pl
 \**Independent Characters may deploy attached to a unit at the same step*
 
 ### Movement Phase
-Units are activated in ascending order of Initiative.
+Units are activated in ascending order of Agility.
 
 ### Psychic Phase
 Units are activated in descending order of Mastery Level.
 
 ### Shooting Phase
-Units are activated in descending order of initiative.
+Units are activated in descending order of Agility.
 
 ### Close Combat Phase
 #### Charge Sub-phase
@@ -36,7 +36,7 @@ Charges are declared in descending order of Agility. Resolve all charges before 
 Resolved as per the AoD ruleset.
 
 ### Agility
-Agility is an attribute derived from initiative with certain modifiers. To characterize the agility of units beyond solely the Initiative attribute. The Agility of a unit is derived from the highest initiative attribute of a model in the unit along with any relevant modifiers (such as status effects like Blind). Additional modifiers to Agility are applied as described below (Non-walker vehicles are considered as having a base Initiative of 1):
+Agility is an attribute derived from initiative with certain modifiers. The Agility of a unit is derived from the highest initiative attribute of a model in the unit along with any relevant modifiers (such as status effects like Blind). To characterize the prowess of units beyond solely the Initiative attribute, additional modifiers to Agility are applied as described below (Non-walker vehicles and other "I -" are considered as base Initiative 1 for this purpose, unless otherwise noted):
 
 #### Unit Type: (+1)
 - Bikes & Jetbikes
@@ -59,7 +59,7 @@ Agility is an attribute derived from initiative with certain modifiers. To chara
 - Slow & Purposeful (Cataphractii?)
 
 ### Zooming Flyers & Super-Heavies:
-Due to their immense momentum (from either mass or velocity) these units will always act after the lowest possible Initiative step in a given phase.
+Due to their exceptional momentum, these units will always act as having 1 below the lowest Agility value in a given phase. (In essence, move first, shoot last)
 
 # Optional Rule: Barrage Zeroing
 Units may not make attacks with Barrage weapons during their activation step. At the beginning of the Shooting Phase, any unit with a Barrage weapon may instead place a zeroing marker at any valid location (usually the targeted model's position).
