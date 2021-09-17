@@ -1,5 +1,3 @@
-# Optional Heresy Rules
-
 ## Alternating Activations
 The following rules are intended to replace the existing AoD turn-based "IGOUGO" in favor of an alternating activation system.
 ### The Turn
