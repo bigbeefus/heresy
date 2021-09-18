@@ -6,7 +6,7 @@ At the start of the game, determine the starting player as normal to determine t
 
 In a given Activation step, Players activate units in order of Agility in a similar manner to Initiative in the Close Combat Phase starting with the first in the Player Order at each relevant Agility value.
 
-*Example: Player A wins the roll-off at the start of the game and chooses first in the player order. During the Movement Phase, Player A and B both have multiple available units with the lowest Agility value. Player A (having priority in the Player Order) chooses one unit tied for the lowest value and resolves its movement. Player B then does the same. Player A may now move his second unit at that Agility value. This is continued until no units are left at that Agility value. Note that Player A's Agility step priority applies the same to other phases*
+*Example: Player A wins the roll-off at the start of the game and chooses first in the player order. During the Movement Phase, Player A and B both have multiple available units with the lowest Agility value. Player A (having priority in the Player Order) chooses one unit tied for the lowest value and resolves its movement. Player B then does the same. Player A may now move his second unit at that Agility value. This is continued until no units are left at that Agility value. Note that Player A's Agility step priority applies the same to subsequent phases*
 
 ### Deployment
 Depending on the mission, players may choose to alternate deployment as well. Players alternate placing units by the following categories (Deploying all by one category before moving to the next):
@@ -36,7 +36,7 @@ Charges are declared in descending order of Agility. Resolve all charges before 
 Resolved as per the AoD ruleset.
 
 ### Agility
-Agility is an attribute derived from initiative with certain modifiers. The Agility of a unit is derived from the highest initiative attribute of a model in the unit along with any relevant modifiers (such as status effects like Blind). To characterize the prowess of units beyond solely the Initiative attribute, additional modifiers to Agility are applied as described below (Non-walker vehicles and other "I -" are considered as base Initiative 1 for this purpose, unless otherwise noted):
+Agility is an attribute derived from initiative with certain modifiers. The Agility of a unit is derived from the highest initiative attribute of a model in the unit along with any relevant modifiers (such as status effects like Blind). To characterize the prowess of units beyond solely the Initiative attribute, additional modifiers to Agility are applied as described below (Non-walker vehicles and other "I -" are considered as base Initiative 1 for this purpose, unless otherwise noted). Units may have an agility value below 0 and above 10.
 
 #### Unit Type: (+1)
 - Bikes & Jetbikes
@@ -47,19 +47,19 @@ Agility is an attribute derived from initiative with certain modifiers. The Agil
 
 #### Special Rules: (+1)
 - Acute Senses
-- Crusader (Movement only)
-- Fleet (Movement Only)
+- Crusader
+- Fleet
 
 #### Unit Type: (-1)
-- Artillery(?)
+- Artillery
 - Heavy Vehicles
 - Tanks
 
 #### Special Rules: (-1)
-- Slow & Purposeful (Cataphractii?)
+- Slow & Purposeful
 
 ### Zooming Flyers & Super-Heavies:
-Due to their exceptional momentum, these units will always act as having 1 below the lowest Agility value in a given phase. (In essence, move first, shoot last)
+Due to their exceptional momentum, these units will always act as having 1 below the lowest Agility value in a given phase. (In essence: move first, shoot last)
 
 # Optional Rule: Barrage Zeroing
 Units may not make attacks with Barrage weapons during their activation step. At the beginning of the Shooting Phase, any unit with a Barrage weapon may instead place a zeroing marker at any valid location (usually the targeted model's position).
